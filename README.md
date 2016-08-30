@@ -1,6 +1,6 @@
 # fluentd + fluentd-plugin-mongo
 
-This image is built with the fluentd-docker-image:v0.12.28-onbuild image, with fluent-plugin-mongo plugin@v0.7.15 installed.
+This image is built with the fluentd-docker-image:v0.12.28-onbuild image, with the fluent-plugin-mongo@v0.7.15 plugin installed.
 
 ## Docker Hub
 
